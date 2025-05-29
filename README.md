@@ -25,6 +25,7 @@ Layout limpo e organizado com o uso de colunas e métricas personalizadas.
 
 2️⃣ Análise Exploratória de Dados (EDA)
 - Análise das principais variáveis relacionadas à desistência: idade, gênero, período, entre outras.
+- Cálculo relacionado a proporcionalidade de dados de desistência com relação aos alunos matriculados
 
 3️⃣ Visualização de Dados
 - Criação de gráficos interativos com Altair e Streamlit para uma navegação dinâmica e intuitiva.
